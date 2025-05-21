@@ -16,7 +16,7 @@ import kagglehub
 # Download the latest version of the dataset
 path = kagglehub.dataset_download("davidcariboo/player-scores")
 
-print("Path to dataset files:", path)
+print("Path to dataset files:", path)```
 
 ## 📁 Project Structure
 
