@@ -40,9 +40,11 @@ print("Dataset downloaded to:", path)´´´
 
 ## 📈 Sample Output
 
-![Monthly Goal Trends](images/plot%201.png)
-![Calendar Heatmap of Cards by Month](images/plot%202.png)
-![Goals Forecast for Kylian Mbappe](images/plot%203.png)
+![Monthly Goal Trends](images/plot1.png)
+
+![Calendar Heatmap of Cards by Month](images/plot2.png)
+
+![Goals Forecast for Kylian Mbappe](images/plot3.png)
 
 
 
