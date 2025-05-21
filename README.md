@@ -1,22 +1,25 @@
-# Football Data Analysis
+# ⚽ Football Player Performance Analysis
 
-This project focuses on analyzing football performance metrics using data science techniques.
+This project analyzes football player performance metrics using data science techniques to uncover insights about player statistics and game outcomes.
 
 ## 📊 Dataset
 
-The dataset used can be found here: [Football Dataset](https://www.kaggle.com/datasets/davidcariboo/player-scores)
+The analysis uses the **Player Scores** dataset from Kaggle:  
+[Football Dataset](https://www.kaggle.com/datasets/davidcariboo/player-scores)
 
-**Player Scores** dataset from Kaggle.
+### Download Instructions
 
-To download the dataset automatically, use the `kagglehub` library:
+To download the dataset programmatically:
 
-```python
+python
 import kagglehub
 
-# Download the latest version of the dataset
+# Download the dataset
 path = kagglehub.dataset_download("davidcariboo/player-scores")
+print("Dataset downloaded to:", path)´´´
 
-print("Path to dataset files:", path)```
+
+
 
 ## 📁 Project Structure
 
